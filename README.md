@@ -25,46 +25,56 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="45" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="45" alt="notion logo"  />
 </div>
 
 ###
 
-<h3 align="center">👷🏻‍♂️ Senior Software Developer [In Progress ⚙]</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saiyantist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">👷🏻‍♂️ Senior Software Developer [<i>In Progress ⚙</i>]</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiyantist&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Saiyantist&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saiyantist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Saiyantist&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiyantist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="200" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiyantist&radius=16&theme=nightowl&area=true&order=5&hide_title=false&hide_border=true&custom_title=Monthly%20Contributions" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiyantist&radius=16&theme=nightowl&area=true&order=5&hide_title=false&hide_border=true&custom_title=Monthly%20Contributions" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h3 align="center">Let's Connect!</h3>
+<h2 align="center">Let's Connect! 📩</h3>
+<p align="center">I'm open for new connections and opportunities that caould fuel my growth. Reach out to me here! 👌🏻</p>
 
 ###
 

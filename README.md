@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saiyantist&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Saiyantist&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Saiyantist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
 </div>
 

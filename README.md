@@ -76,6 +76,10 @@
 
   <!-- Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Saiyantist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  /> -->
+
+  
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saiyantist&theme=tokyonight&utcOffset=9" height="200" alt="productive time" />
   
 </div>
 
@@ -85,10 +89,8 @@
 <div align="center">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiyantist&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true&custom_title=Monthly%20Contributions" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiyantist&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true&custom_title=Monthly%20Contributions" height="275" alt="activity-graph graph"  />
 
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saiyantist&theme=tokyonight&utcOffset=9" alt="productive time" />
 </div>
 
 ###
